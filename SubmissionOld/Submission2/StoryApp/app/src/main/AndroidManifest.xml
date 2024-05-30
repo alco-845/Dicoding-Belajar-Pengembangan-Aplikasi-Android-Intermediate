@@ -48,7 +48,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAB0Lw6_ZKK6jWpHMLGmgSl2hQj7rtO9zw" />
+            android:value="google-maps-token" />
 
         <activity
             android:name="com.alcorp.storyapp.ui.map.MapActivity"
