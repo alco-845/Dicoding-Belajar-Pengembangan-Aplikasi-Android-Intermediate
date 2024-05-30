@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+
+    <!--    Customview-->
+    <string name="email">Email</string>
+    <string name="email_validate">Email tidak valid</string>
+    <string name="email_empty">Email harus diisi</string>
+
+    <string name="password">Password</string>
+    <string name="password_min_length">Password harus lebih dari 8 karakter</string>
+    <string name="password_empty">Password harus diisi</string>
+
+    <string name="username_validate">Username harus diisi</string>
+    <!--    End of Customview-->
+
+    <!--    View-->
+    <string name="registration">Registrasi</string>
+    <string name="name">Nama</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="txt_have_account">Sudah punya akun? Login</string>
+    <string name="txt_dont_have_account">Belum punya akun? Register</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="txt_loading">Loading…</string>
+    <string name="retry">Coba lagi</string>
+    <string name="txt_input_lat_long">Masukan latitude dan longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <!--    End of View-->
+
+    <!--    image description-->
+    <string name="image_before_upload">Hasil gambar sebelum di upload</string>
+    <string name="image_other_user">Gambar yang diupload oleh user lain</string>
+    <!--    End of image description-->
+
+    <!--    Toolbar-->
+    <string name="add">Tambah Story</string>
+    <string name="settings">Pengaturan</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="story_maps">Map Story</string>
+    <!--End of Toolbar-->
+
+    <!--    Toast-->
+    <string name="toast_permission">Fitur tidak bekerja. Silahkan setujui izin aplikasi</string>
+    <string name="toast_insert_image">Gambar harus diisi</string>
+    <string name="toast_insert_desc">Deskripsi harus diisi</string>
+    <string name="toast_network">Tidak ada koneksi internet</string>
+    <string name="toast_wait">Harap tunggu…</string>
+    <!--    End of Toast-->
+</resources>

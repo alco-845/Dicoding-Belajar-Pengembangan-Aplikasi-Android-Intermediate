@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Widget.MyWidgets.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.MyWidgets.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="ThemeOverlay.MyWidgets.AppWidgetContainer" parent="">
+        <item name="appWidgetBackgroundColor">@color/light_blue_600</item>
+        <item name="appWidgetTextColor">@color/light_blue_50</item>
+    </style>
+</resources>

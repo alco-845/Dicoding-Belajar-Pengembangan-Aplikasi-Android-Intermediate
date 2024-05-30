@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <!--    Customview-->
+    <string name="email">Email</string>
+    <string name="email_validate">Email is not valid</string>
+    <string name="email_empty">Email must be filled</string>
+
+    <string name="password">Password</string>
+    <string name="password_min_length">Password must be at least 8 characters long</string>
+    <string name="password_empty">Password must be filled</string>
+    <!--    End of Customview-->
+
+    <!--    View-->
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="txt_have_account">Already have account? Login</string>
+    <string name="txt_dont_have_account">Don\'t have account? Register</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="txt_loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <!--    End of View-->
+
+    <!--    image description-->
+    <string name="image_before_upload">Image result before upload it</string>
+    <string name="image_other_user">Image uploaded by other user</string>
+    <!--    End of image description-->
+
+    <!--    Toolbar-->
+    <string name="add">Add Story</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="add_story">Add Story</string>
+    <!--End of Toolbar-->
+
+    <!--    Toast-->
+    <string name="toast_permission">Feature not working. Please allow the permission</string>
+    <string name="toast_insert_image">Please insert image</string>
+    <string name="toast_insert_desc">Please fill the description</string>
+    <string name="toast_network">No Internet Connection</string>
+    <string name="toast_wait">Please wait…</string>
+    <!--    End of Toast-->
+</resources>

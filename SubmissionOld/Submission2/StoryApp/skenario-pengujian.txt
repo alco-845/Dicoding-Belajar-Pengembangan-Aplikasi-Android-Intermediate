@@ -1,0 +1,2 @@
+MainViewModelTest
+	- Memastikan data story tidak null.
